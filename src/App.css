@@ -14,7 +14,7 @@
   font-size: 32px;
 
   display: block;
-  margin: 0 auto;
+  margin: 24px auto 0;
 
   animation: rotation 2s infinite linear;
 }
