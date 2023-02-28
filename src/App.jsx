@@ -5,12 +5,12 @@ import './App.css';
 // Components
 import Header from './components/Header';
 import Search from './components/Search';
+import Loading from './components/Loading';
 
 // Icons
 import { MdLocationOn } from 'react-icons/md';
 import { MdWaterDrop } from 'react-icons/md';
 import { FaWind } from 'react-icons/fa';
-import Loading from './components/Loading';
 
 function App() {
   const [cityName, setCityName] = useState('');
